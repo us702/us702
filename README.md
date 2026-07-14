@@ -27,6 +27,10 @@ Every week, I pick one genuinely boring, repeated task — something you'd norma
 
 More ship every Sunday.
 
+### The flagship: a PM-curated AI toolkit
+
+[`awesome-ai-pm-toolkit`](https://github.com/us702/awesome-ai-pm-toolkit) — not another engineer-facing "awesome list." A curated, opinionated map of AI tools and workflows judged from the PM side: can you get from idea to working prototype yourself, today? Every entry gets a PM-fit rating and an honest take, not scraped marketing copy.
+
 ### Why this, as a PM
 
 Most PM output is a document that describes a decision someone else has to build. I think the bar for AI-era product management is higher than that — you should be able to prototype the thing you're proposing, not just diagram it. This repo is where I hold myself to that.
